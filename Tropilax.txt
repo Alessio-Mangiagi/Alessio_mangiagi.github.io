@@ -21,11 +21,11 @@ I'd like to help companies to improve herself by my work!
 <span id="c"><a href="https://github.com/Alessio-Mangiagi" target="_blank">My Github profile</a></span>
 Want to know me more? then let us be friends!
 &nbsp;
-<span id="a">\\Root\ATL-srg\Tropilax&gt;</span><span id="b">view prof.json</span>
+<span id="a">\\Root\ATL-srg\Alessio&gt;</span><span id="b">view prof.json</span>
 {
-    Job: "<span id="c">Jr Cloud Specialist </span>",
+    Job: "<span id="c">Jr Data analyst // Python developer </span>",
     English: "<span id="c">B2</span>",
-    Certifications: "<span id="c">AWS Certified Cloud Practitioner</span>",
+    Certifications: "<span id="c">Epicode == Data analyst</span>",
     Hobby: "<span id="c">"coding"+"Karate"</span>",
 }
 &nbsp;
