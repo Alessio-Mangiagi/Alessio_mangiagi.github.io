@@ -29,7 +29,7 @@ Want to know me more? then let us be friends!
     Hobby: "<span id="c">Metal Detecting and 3D Printing</span>",
 }
 &nbsp;
-<span id="a">\\Root\ATL-srg\Tropilax&gt;</span><span id="b">view links.json</span>
+<span id="a">\\Root\ATL-srg\Alessio_Mangiagi&gt;</span><span id="b">view links.json</span>
 {
     Discord: "<span id="c">(ask me later)</span>",
     GitHub: "<span id="c">https://github.com/Alessio-Mangiagi",
