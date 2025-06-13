@@ -26,7 +26,7 @@ Want to know me more? then let us be friends!
     Job: "<span id="c">Jr Data analyst // Python developer </span>",
     English: "<span id="c">B2</span>",
     Certifications: "<span id="c">Epicode == Data analyst</span>",
-    Hobby: "<span id="c">"coding"+"Karate"</span>",
+    Hobby: "<span id="c">"coding"/"Karate"</span>",
 }
 &nbsp;
 <span id="a">\\Root\ATL-srg\Alessio_Mangiagi&gt;</span><span id="b">view links.json</span>
